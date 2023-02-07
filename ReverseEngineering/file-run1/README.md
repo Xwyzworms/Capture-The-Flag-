@@ -1,0 +1,2 @@
+Basically cuman buat dia executable aja
+The flag is: picoCTF{U51N6_Y0Ur_F1r57_F113_47cf2b7b}
